@@ -1,0 +1,26 @@
+{
+  "success": true,
+  "data": [
+    {
+      "number": "0060607",
+      "accountName": "Stuart Thrift Operations",
+      "accountUse": "Thrift Operations",
+      "bankName": "Bank of America",
+      "openDate": "2016-01-01"
+    },
+    {
+      "number": "0800678",
+        "accountName": "Savings Account",
+        "accountUse": "Thrift Operations",
+        "bankName": "Bank of America",
+        "openDate": "2020-01-01"
+    },
+    {
+      "number": "0494708",
+      "accountName": "Checking Account",
+      "accountUse": "Thrift Operations",
+      "bankName": "Bank of America",
+      "openDate": "2019-01-01"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1234,
+      "name": "Global Trust Bank",
+      "address1": "1234 Market Street",
+      "address2": "Suite 567",
+      "city": "Metropolis",
+      "state": "Newland",
+      "zipcode": "90210",
+      "phone": "1234567890",
+      "email": "contact@bank.com",
+      "contact": "John Doe"
+    },
+    {
+      "id": 5678,
+      "name": "Citywide Savings",
+      "address1": "5678 Elm Street",
+      "address2": "Suite 890",
+      "city": "Riverdale",
+      "state": "Greenwood",
+      "zipcode": "34567",
+      "phone": "1234567890",
+      "email": "contact@bank.com",
+      "contact": "John Doe"
+    },
+    {
+      "id": 9101,
+      "name": "Capital Investments Bank",
+      "address1": "9101 Oak Avenue",
+      "address2": "Building 2",
+      "city": "Uptown",
+      "state": "Hillview",
+      "zipcode": "78901",
+      "phone": "1234567890",
+      "email": "contact@bank.com",
+      "contact": "John Doe"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "success": true,
+  "data": [
+    {
+      "locationId": 392,
+      "licensedLocationId": 497,
+      "locationName": "Arlington Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 374,
+      "licensedLocationId": 497,
+      "locationName": "DFW Carr P. Collins Social Service Center",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 403,
+      "licensedLocationId": 497,
+      "locationName": "DFW Cedar Crest Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 407,
+      "licensedLocationId": 497,
+      "locationName": "DFW Dallas Temple Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 410,
+      "licensedLocationId": 497,
+      "locationName": "DFW Denton Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 389,
+      "licensedLocationId": 455,
+      "locationName": "DFW Ellis County Boys and Girls Club",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 455,
+      "licensedLocationId": 497,
+      "locationName": "DFW Ellis County Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 387,
+      "licensedLocationId": 413,
+      "locationName": "DFW Garland Boys & Girls Club",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 413,
+      "licensedLocationId": 497,
+      "locationName": "DFW Garland Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 402,
+      "licensedLocationId": 497,
+      "locationName": "DFW Harbor Light Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 417,
+      "licensedLocationId": 497,
+      "locationName": "DFW Irving Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 519,
+      "licensedLocationId": 497,
+      "locationName": "DFW Lancaster Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 427,
+      "licensedLocationId": 497,
+      "locationName": "DFW Lewisville Service Center",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 376,
+      "licensedLocationId": 497,
+      "locationName": "DFW Mabee Social Service Center",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 434,
+      "licensedLocationId": 497,
+      "locationName": "DFW McKinney Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 409,
+      "licensedLocationId": 497,
+      "locationName": "DFW Northside Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 404,
+      "licensedLocationId": 497,
+      "locationName": "DFW Oak Cliff Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 442,
+      "licensedLocationId": 497,
+      "locationName": "DFW Plano Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 405,
+      "licensedLocationId": 497,
+      "locationName": "DFW Pleasant Grove Corps",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 241,
+      "licensedLocationId": 497,
+      "locationName": "Lewisville, TX Service Center",
+      "isRoleLocation": false
+    },
+    {
+      "locationId": 497,
+      "licensedLocationId": 100,
+      "locationName": "NTX Area Command",
+      "isRoleLocation": true
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "success": true,
+  "data": {
+    "roleId": 699,
+    "locationId": 497,
+    "userId": 4,
+    "userName": "Leon Beard",
+    "userFirstName": "Leon",
+    "userStatus": 0,
+    "apptId": 146,
+    "userLastName": "Beard",
+    "userEmail": "lbeard@dataparadigm.com",
+    "licensedLocationId": 100,
+    "locationName": "NTX Area Command",
+    "apptDesc": "IT Manager",
+    "profileImageBlobId": 83266,
+    "rankedUserName": "Comm. Leon Beard"
+  }
+}
