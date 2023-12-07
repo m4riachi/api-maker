@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": "0060607",
+      "name": "Merchant Stuart Thrift Operations"
+    },
+    {
+      "id": "0800678",
+        "name": "Merchant Savings Account"
+    },
+    {
+      "id": "0494708",
+      "name": "Merchant Checking Account"
+    }
+  ]
+}
