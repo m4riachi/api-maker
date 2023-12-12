@@ -1,0 +1,56 @@
+{
+  "success": true,
+  "data": {
+    "id": 1234,
+    "name": "Global Trust Bank",
+    "address1": "1234 Market Street",
+    "address2": "Suite 567",
+    "city": "Metropolis",
+    "state": "Newland",
+    "zipcode": "90210",
+    "phone": "1234567890",
+    "email": "contact@bank.com",
+    "contact": "John Doe",
+    "status": "Active",
+    "location": {
+      "locationId": 392,
+      "licensedLocationId": 497,
+      "locationName": "Arlington Corps",
+      "isRoleLocation": false
+    },
+    "users": [
+      {
+        "roleId": 699,
+        "locationId": 497,
+        "userId": 4,
+        "userName": "Leon Beard",
+        "userFirstName": "Leon",
+        "userStatus": 0,
+        "apptId": 146,
+        "userLastName": "Beard",
+        "userEmail": "lbeard@dataparadigm.com",
+        "licensedLocationId": 100,
+        "locationName": "NTX Area Command",
+        "apptDesc": "IT Manager",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      {
+        "roleId": 4969,
+        "locationId": 497,
+        "userId": 4965,
+        "userName": "Tracy Griffieth",
+        "userFirstName": "Tracy",
+        "userStatus": 0,
+        "apptId": 146,
+        "userLastName": "Griffieth",
+        "userEmail": "tracy.griffieth@dataparadigm.com",
+        "licensedLocationId": 100,
+        "locationName": "NTX Area Command",
+        "apptDesc": "IT Manager",
+        "profileImageBlobId": 83243,
+        "rankedUserName": "Tracy Griffieth"
+      }
+    ]
+  }
+}
