@@ -1,0 +1,702 @@
+{
+  "success": true,
+  "data": [
+    {
+      "category": "Data Modification",
+      "change": "Have you received a shut-off notice updated\nFrom [Yes] to [No]\n",
+      "createdAt": "2023-12-13T09:22:48.277797Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "feee1060-9153-4f68-9877-e4aa3aa98886",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_answers"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Fund [Fund A1] removed with an amount of [$15.00]",
+      "createdAt": "2023-12-13T09:08:43.352032Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "3945ef5a-b301-4d11-a325-cf27a5f79ada",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_funds"
+    },
+    {
+      "category": "Status changes",
+      "change": "Assistance request status changed from [Approval Pending] to [Accepted]\nReason: Comment\n",
+      "createdAt": "2023-12-13T09:08:43.35203Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "c8644127-413a-4ef6-8c0b-ac02cc0e7104",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Status changes",
+      "change": "Assistance request status changed from [Approved] to [Approval Pending]\nReason: Comment\n",
+      "createdAt": "2023-12-13T09:08:16.665092Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "55c460a5-12ba-4a47-ac9f-339f199d0b58",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Status changes",
+      "change": "Assistance request status changed from [Approval Pending] to [Approved]",
+      "createdAt": "2023-12-13T09:07:22.580846Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "34553b01-0ba7-411e-9aea-cfc08c85de95",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Status changes",
+      "change": "Assistance request status changed from [Accepted] to [Approval Pending]",
+      "createdAt": "2023-12-13T09:07:15.354211Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "2d7a4525-ca67-4839-9a3f-47fd87ec1eb4",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Payment Method updated\nAdded: [EFT]\n",
+      "createdAt": "2023-12-13T09:07:15.342325Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "1c11fdfd-b32e-4092-9307-e832adfb29a1",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Fund [Fund A1] added with an amount of [$15.00]",
+      "createdAt": "2023-12-13T09:07:15.121373Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "0055e7a8-3fd4-4eb0-8c7a-baf7d3a4b4eb",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_funds"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Copy of Shut-Off Notice updated\nRemoved: [Screenshot from 2023-12-04 18-34-05.png]\n",
+      "createdAt": "2023-12-13T09:06:58.077535Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "5f3dd095-0392-45f3-bc92-8f2eaa902ed9",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_answers"
+    },
+    {
+      "category": "File attachment/removal",
+      "change": "Supporting Document updated\nAdded [test 2]: Screenshot from 2023-12-12 09-01-35.png",
+      "createdAt": "2023-12-12T08:28:30.065452Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "014298f4-eb79-440c-ac08-8abd19fdd372",
+      "rowId": "6dcdcffd-8fa5-4c88-8569-b607e683f0fc",
+      "tableName": "tbl_applications_supporting_documents"
+    },
+    {
+      "category": "File attachment/removal",
+      "change": "Supporting Document updated\nAdded [Upload New Document]: Sample eviction notice.pdf",
+      "createdAt": "2023-12-12T08:27:17.750302Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "2175499c-2622-45e6-8e76-b00b6588771e",
+      "rowId": "5a0bf030-3b87-4968-beb3-efa5a32839e9",
+      "tableName": "tbl_applications_supporting_documents"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Copy of Shut-Off Notice updated\nAdded: [Screenshot from 2023-12-04 18-34-05.png]\nCopy of Most Recent Utility Bill updated\nAdded: [Screenshot from 2023-12-08 08-10-16.png]\n",
+      "createdAt": "2023-12-11T10:03:56.615849Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "56bad981-6c68-4f35-9d41-07d4e502a52a",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_answers"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Payee submitted verification and documentation.",
+      "createdAt": "2023-12-11T09:48:59.217051Z",
+      "createdBy": {
+        "apptDesc": "",
+        "firstName": "Taoufiq",
+        "id": 0,
+        "lastName": "Ben",
+        "locationName": "",
+        "profileImageBlobId": 0,
+        "rankedUserName": ""
+      },
+      "id": "0e58fa73-da79-4282-ab39-71684e7ef1aa",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_requests_payee_submissions"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: marked [N/A]\n",
+      "createdAt": "2023-12-11T09:45:11Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "9aefe4c5-9b39-4d49-8b94-1a6e795470d8",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Email sent to payee.",
+      "createdAt": "2023-12-11T09:43:17Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "7045d774-824c-41bb-8986-bf2b481f8b39",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document Updated:\n Added [My Document 1]: summary_104dcb4c-e5c4-40f9-959a-f8ac9d8ba7de.pdf",
+      "createdAt": "2023-12-11T09:43:04Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "165dde43-0bc2-4fe7-8fb0-a712a3e0ec28",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: unmarked [N/A]\n",
+      "createdAt": "2023-12-11T09:39:25Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "0f70d005-50ad-41c3-8a23-f17a3816041b",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: marked [N/A]\n",
+      "createdAt": "2023-12-11T09:37:53Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "8d50f1ab-8853-46b3-a680-a2de20c3ac1f",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document Updated:\n Added [My Document 1]: summary_104dcb4c-e5c4-40f9-959a-f8ac9d8ba7de.pdf",
+      "createdAt": "2023-12-11T09:37:49Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "16d969e2-2c90-4693-bc9c-eb6ebc0494c6",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: marked [N/A]\n",
+      "createdAt": "2023-12-11T09:37:16Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "3c6919d7-b4f5-444a-9be9-fc5ad66ae82d",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document Updated:\n Added [My Document 1]: summary_104dcb4c-e5c4-40f9-959a-f8ac9d8ba7de.pdf",
+      "createdAt": "2023-12-11T09:37:12Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "a7cce865-b008-4593-9cff-a764b3895800",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: marked [N/A]\n",
+      "createdAt": "2023-12-11T09:26:54Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "ec243359-f988-46e0-a40d-9db2e38a0712",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document Updated:\n Added [My Document 1]: summary_104dcb4c-e5c4-40f9-959a-f8ac9d8ba7de.pdf",
+      "createdAt": "2023-12-11T09:26:46Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "43d2d31b-3307-445d-a83a-14ce0cd20705",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: unmarked [N/A]\n",
+      "createdAt": "2023-12-11T09:26:38Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "0ff39b06-e1b3-4c89-a2af-92fcd6c6f155",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: marked [N/A]\n",
+      "createdAt": "2023-12-11T09:15:47Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "a1b828a1-6506-4727-88a7-39a04252eea0",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: unmarked [N/A]\n",
+      "createdAt": "2023-12-11T09:13:40Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "10245846-0526-462e-b8c6-1f70868822f0",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n [My Document 1]: marked [N/A]\n",
+      "createdAt": "2023-12-11T09:13:23Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "06933806-8c82-45fb-a465-6120331ee6a1",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n Updated [Document 3]: summary_104dcb4c-e5c4-40f9-959a-f8ac9d8ba7de.pdf\n",
+      "createdAt": "2023-12-11T09:12:41Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "e1ae0c67-f6cd-4aed-8344-631f07e0e8a9",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Required documents",
+      "change": "Required Document updated:\n Updated [My Document 1]: summary_104dcb4c-e5c4-40f9-959a-f8ac9d8ba7de.pdf\n",
+      "createdAt": "2023-12-11T09:12:30Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "e1803274-a562-4f31-a6e5-961c25c70dd2",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Status changes",
+      "change": "Assistance request status changed from [Submitted] to [Accepted]",
+      "createdAt": "2023-12-11T09:10:11.447843Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "cab4f761-829b-4765-825c-760e0908c596",
+      "rowId": "9becd978-6735-4a9a-a32d-6791acca62d0",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Status changes",
+      "change": "Assistance request status changed from [Submitted] to [Accepted]",
+      "createdAt": "2023-12-11T09:10:11.447829Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "2d62f59d-d4e8-4506-a109-9253646a20ec",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Status changes",
+      "change": "Application status changed from [Submitted] to [Accepted]",
+      "createdAt": "2023-12-11T09:10:11.447388Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "1252f6fe-0be3-4d2d-8e57-bca99f843a4a",
+      "rowId": "841a098e-3bc7-4bef-9740-e0e1c8279899",
+      "tableName": "tbl_applications"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Have you received a shut-off notice updated\nFrom [No] to [Yes]\n",
+      "createdAt": "2023-12-11T07:18:49.019661Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "027428c9-677d-4026-9f7b-a5b5d63068b4",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_answers"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Have you received a shut-off notice updated\nFrom [Yes] to [No]\n",
+      "createdAt": "2023-12-11T07:18:32.794073Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "07266e23-f1f5-4799-8fc0-3a9ee41053f2",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_answers"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Have you received a shut-off notice updated\nFrom [No] to [Yes]\n",
+      "createdAt": "2023-12-11T07:18:00.138959Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "96ea7055-9d6f-42ac-80d8-7ef3eaa3e8d2",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_answers"
+    },
+    {
+      "category": "Data Modification",
+      "change": "Have you received a shut-off notice updated\nAdded: [No]\n",
+      "createdAt": "2023-12-11T06:48:36.535505Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "1eaebec8-6be3-4f55-bbb7-a6b3896b8856",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_request_answers"
+    },
+    {
+      "category": "Required documents",
+      "change": "Email sent to payee.",
+      "createdAt": "2023-12-08T07:58:20Z",
+      "createdBy": {
+        "apptDesc": "DPI Rock Star",
+        "firstName": "Leon",
+        "id": 4,
+        "lastName": "Beard",
+        "locationName": "Texas Divisional Headquarters",
+        "profileImageBlobId": 83266,
+        "rankedUserName": "Comm. Leon Beard"
+      },
+      "id": "0a0203db-368a-41bc-8ce0-aef33d3e391c",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_payee_required_documents"
+    },
+    {
+      "category": "Status changes",
+      "change": "Assistance request status changed from [Draft] to [Submitted]",
+      "createdAt": "2023-12-08T07:57:53.606178Z",
+      "createdBy": {
+        "apptDesc": "",
+        "firstName": "Taoufiq",
+        "id": 0,
+        "lastName": "Ben",
+        "locationName": "",
+        "profileImageBlobId": 0,
+        "rankedUserName": ""
+      },
+      "id": "d6825fae-5e23-4bcb-8ded-ab7fe2b6d1d7",
+      "rowId": "9becd978-6735-4a9a-a32d-6791acca62d0",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Status changes",
+      "change": "Assistance request status changed from [Draft] to [Submitted]",
+      "createdAt": "2023-12-08T07:57:53.606172Z",
+      "createdBy": {
+        "apptDesc": "",
+        "firstName": "Taoufiq",
+        "id": 0,
+        "lastName": "Ben",
+        "locationName": "",
+        "profileImageBlobId": 0,
+        "rankedUserName": ""
+      },
+      "id": "8f868e5f-cb73-44d0-bb08-0d2b531cc444",
+      "rowId": "5a7e87c8-539b-4b0a-a86e-1f563fd5ade3",
+      "tableName": "tbl_assistance_requests"
+    },
+    {
+      "category": "Status changes",
+      "change": "Application status changed from [Draft] to [Submitted]",
+      "createdAt": "2023-12-08T07:57:53.606128Z",
+      "createdBy": {
+        "apptDesc": "",
+        "firstName": "Taoufiq",
+        "id": 0,
+        "lastName": "Ben",
+        "locationName": "",
+        "profileImageBlobId": 0,
+        "rankedUserName": ""
+      },
+      "id": "8b97fa15-1f5b-48db-9e3c-522274566967",
+      "rowId": "841a098e-3bc7-4bef-9740-e0e1c8279899",
+      "tableName": "tbl_applications"
+    },
+    {
+      "category": "Status changes",
+      "change": "Application started.",
+      "createdAt": "2023-12-08T07:55:25.577689Z",
+      "createdBy": {
+        "apptDesc": "",
+        "firstName": "Taoufiq",
+        "id": 0,
+        "lastName": "Ben",
+        "locationName": "",
+        "profileImageBlobId": 0,
+        "rankedUserName": ""
+      },
+      "id": "a3ea31b1-c76a-4a44-bbd2-96ae223a5262",
+      "rowId": "841a098e-3bc7-4bef-9740-e0e1c8279899",
+      "tableName": "tbl_applications"
+    }
+  ]
+}

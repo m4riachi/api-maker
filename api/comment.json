@@ -1,0 +1,41 @@
+{
+  "success": true,
+  "data": {
+    "result": [
+      {
+        "id": "02b39e7a-5e98-444f-a891-6923702fcd22",
+        "message": "Added Comment: add comment",
+        "createdAt": "2023-12-14T15:01:51.455862Z",
+        "category": "Comments",
+        "foreignKeyId": "841a098e-3bc7-4bef-9740-e0e1c8279899",
+        "user": {
+          "apptDesc": "DPI Rock Star",
+          "firstName": "Leon",
+          "id": 4,
+          "lastName": "Beard",
+          "locationName": "Texas Divisional Headquarters",
+          "profileImageBlobId": 83266,
+          "rankedUserName": "Comm. Leon Beard"
+        }
+      },
+      {
+        "id": "952c5ec8-2f4b-45e9-8772-1ac1c75f337f",
+        "message": "Added Comment: add commentan other comment\n",
+        "createdAt": "2023-12-14T15:02:01.908433Z",
+        "category": "Comments",
+        "foreignKeyId": "841a098e-3bc7-4bef-9740-e0e1c8279899",
+        "user": {
+          "apptDesc": "DPI Rock Star",
+          "firstName": "Leon",
+          "id": 4,
+          "lastName": "Beard",
+          "locationName": "Texas Divisional Headquarters",
+          "profileImageBlobId": 83266,
+          "rankedUserName": "Comm. Leon Beard"
+        }
+      }
+    ],
+    "count": 2,
+    "pages": 1
+  }
+}
